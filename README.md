@@ -1,5 +1,11 @@
 # Git Template
 
+## Installation
+
+Clone to `~/.git_template` and then run
+
+    git config --global init.templatedir '~/.git_template'
+
 ## Hooks
 
 ### Prepare Commit Message
